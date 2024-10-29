@@ -8,29 +8,7 @@ body {
     font-family: Arial, sans-serif;
 }
 
-header {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 1rem;
-    background-color: #2a9d8f;
-}
 
-.logo {
-    width: 120px; /* Adjust the width as needed */
-    height: auto; /* Maintains aspect ratio */
-}
-
-nav a {
-    color: #fff;
-    text-decoration: none;
-    margin: 0 1rem;
-    font-weight: bold;
-}
-
-nav a:hover {
-    color: #264653;
-}
 
 header {
     display: flex;
